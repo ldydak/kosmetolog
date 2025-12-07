@@ -201,7 +201,7 @@
 
 
         <!-- Gallery -->
-        <section class="container py-5 my-lg-3">
+        <section class="container py-5 my-lg-3" id="galeria">
             <div class="py-2 py-sm-3 py-md-4 my-md-2 my-xxl-3">
                 <h2 class="h1 text-center pt-xxl-1">Zobacz jak pracuję</h2>
                 <p class="fs-lg text-center pb-3">Relacje ze swojej pracy prowadzę często na <a href="https://nstagram.com/kosmetolog.wroclaw.pl" target="_blank">Instagramie</a> - zapraszam!</p>
