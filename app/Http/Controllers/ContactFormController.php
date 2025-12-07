@@ -19,19 +19,16 @@ class ContactFormController extends Controller
         // ]);
         $checkboxes = [];
         if ($request->checkbox_sklep == 'on'){
-            array_push($checkboxes, 'sklep');
+            array_push($checkboxes, 'umówi się na zabieg');
         }
         if ($request->checkbox_strona == 'on'){
-            array_push($checkboxes, 'stronę');
+            array_push($checkboxes, 'umówi się na szkolenie');
         }
         if ($request->checkbox_development == 'on'){
-            array_push($checkboxes, 'rozwiązanie dedykowane');
-        } 
-        if ($request->checkbox_gfx == 'on'){
-            array_push($checkboxes, 'branding lub projektowanie UI/UX');
+            array_push($checkboxes, 'konsultacji');
         }
         $toSend = ['name' => $request->name, 'company' => $request->company, 'email' => $request->email, 'phone' => $request->phone, 'message' => $request->message, 'checkboxes' => implode(', ', $checkboxes)];
-        Mail::to('ldydak@gmail.com')->send(new ContactMail($toSend));
+        Mail::to('kontakt@kosmetolog.wroclaw.pl')->send(new ContactMail($toSend));
 
         $notification = array(
             'message' => 'Dziękujemy za wiadomość, bądźmy w kontakcie.',
