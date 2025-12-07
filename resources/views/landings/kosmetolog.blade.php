@@ -113,7 +113,7 @@
                          data-disable-parallax-down="md">
 
                                 <a class="gallery-item d-block card-hover zoom-effect"
-                                   href="https://www.youtube.com/watch?v=t4rh9FfHqPQ">
+                                   href="https://www.youtube.com/watch?v=t4rh9FfHqPQ&mute=0">
                                     <img class="object-fit-cover w-100 h-100 rounded-3" src="/img/kosmetolog/webinary.webp" alt="Webinary Kosmetolog Wrocław">
                                 </a>
                     </div>
@@ -253,7 +253,7 @@
 
                                 <!-- Item -->
                                 <a class="gallery-item d-block card-hover zoom-effect"
-                                   href="https://www.youtube.com/watch?v=Pz6FsBj-mnQ">
+                                   href="https://www.youtube.com/watch?v=Pz6FsBj-mnQ&mute=0">
                                     <div
                                         class="btn btn-icon btn-lg btn-primary rounded-circle pe-none position-absolute top-50 start-50 translate-middle z-3">
                                         <i class="ai-play-filled"></i>
@@ -279,7 +279,7 @@
 
                                 <!-- Item -->
                                 <a class="gallery-item d-block card-hover zoom-effect"
-                                   href="https://www.youtube.com/watch?v=PwxkCRkMe7c">
+                                   href="https://www.youtube.com/watch?v=PwxkCRkMe7c&mute=0">
                                     <div
                                         class="btn btn-icon btn-lg btn-primary rounded-circle pe-none position-absolute top-50 start-50 translate-middle z-3">
                                         <i class="ai-play-filled"></i>
@@ -302,7 +302,7 @@
 
                                 <!-- Item -->
                                 <a class="gallery-item d-block card-hover zoom-effect"
-                                   href="https://www.youtube.com/watch?v=ZMMYVyOoTVs">
+                                   href="https://www.youtube.com/watch?v=ZMMYVyOoTVs&mute=0">
                                     <div
                                         class="btn btn-icon btn-lg btn-primary rounded-circle pe-none position-absolute top-50 start-50 translate-middle z-3">
                                         <i class="ai-play-filled"></i>
@@ -324,7 +324,7 @@
 
                                 <!-- Item -->
                                 <a class="gallery-item d-block card-hover zoom-effect"
-                                   href="https://www.youtube.com/watch?v=t4rh9FfHqPQ">
+                                   href="https://www.youtube.com/watch?v=t4rh9FfHqPQ&mute=0">
                                     <div
                                         class="btn btn-icon btn-lg btn-primary rounded-circle pe-none position-absolute top-50 start-50 translate-middle z-3">
                                         <i class="ai-play-filled"></i>
