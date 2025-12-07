@@ -5,7 +5,8 @@
     @include('layouts.partials/title-meta', ['title' => $title])
 
     @include('layouts.partials/head-css')
-    
+
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-RN4F5GVC4G"></script>
     <script>

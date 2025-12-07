@@ -204,7 +204,7 @@
         <section class="container py-5 my-lg-3" id="galeria">
             <div class="py-2 py-sm-3 py-md-4 my-md-2 my-xxl-3">
                 <h2 class="h1 text-center pt-xxl-1">Zobacz jak pracuję</h2>
-                <p class="fs-lg text-center pb-3">Relacje ze swojej pracy prowadzę często na <a href="https://nstagram.com/kosmetolog.wroclaw.pl" target="_blank">Instagramie</a> - zapraszam!</p>
+                <p class="fs-lg text-center pb-3">Relacje ze swojej pracy prowadzę często na <a href="https://instagram.com/kosmetolog.wroclaw.pl" target="_blank">Instagramie</a> - zapraszam!</p>
                 <div class="d-flex position-relative align-items-center justify-content-center pb-4 my-4">
                     <a class="btn btn-icon btn-primary stretched-link me-3 me-sm-4" href="https://instagram.com/kosmetolog.wroclaw.pl" aria-label="Instagram" target="_blank">
                         <i class="ai-instagram"></i>
