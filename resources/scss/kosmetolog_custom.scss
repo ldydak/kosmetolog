@@ -1,0 +1,76 @@
+.kosmetolog-logo {
+    width: 200px;
+    margin-right: 1em;
+}
+.kosmetolog-logo-footer {
+    width: 250px;
+}
+strong {
+    display: contents;
+}
+.kosmetolog-hero,
+.contact-hero {
+  position: relative; 
+  z-index: 1;
+}
+
+.kosmetolog-hero::before {
+  content: "";
+  position: absolute;
+    top: -150px;
+    rotate: -25deg;
+    right: 7em;
+    width: 260px;
+    height: 210px;
+
+  background-image: url("/img/kosmetolog/leaf_bg.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+  pointer-events: none;
+  z-index: -1;
+  display: none;
+  @media (min-width: 560px) {
+    display: block;
+  }
+  
+}
+
+.kosmetolog-hero::after {
+  content: "";
+  position: absolute;
+    bottom: -140px;
+    left: -120px;
+    rotate: 165deg;
+    width: 540px;
+height: 270px;
+
+  background-image: url("/img/kosmetolog/leaf_bg.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+  pointer-events: none;
+  z-index: -1;
+}
+
+
+
+.contact-hero::after {
+  content: "";
+  position: absolute;
+    bottom: -60px;
+    left: -120px;
+    rotate: 165deg;
+    width: 320px;
+    height: 270px;
+
+  background-image: url("/img/kosmetolog/leaf_bg.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+  pointer-events: none;
+  z-index: -1;
+}
