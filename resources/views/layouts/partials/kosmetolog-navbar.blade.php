@@ -21,7 +21,7 @@
                 <a class="btn btn-primary btn-sm fs-sm d-none d-sm-inline-flex"
                 href="tel:506102530" rel="noopener">
                  <i class="ai-phone fs-xl me-2 ms-n1"></i>
-                 728 000 590
+                 459 257 121
                 </a>
  
                 {{-- <!-- Mobile menu toggler (Hamburger) --> --}}
@@ -76,7 +76,7 @@
                     <a class="btn btn-primary w-100 mb-1"
                     href="tel:506102530" rel="noopener">
                     <i class="ai-phone fs-xl me-2 ms-n1"></i>
-                    728 000 590
+                    459 257 121
                     </a>
                 </div>
             </nav>
